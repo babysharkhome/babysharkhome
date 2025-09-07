@@ -1,5 +1,4 @@
-<!-- 简约分割线：小鲨鱼 -->
-<p align="center">🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈🅱🅰🅱🆈🦈🆂🅷🅰🆁🅺﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈</p>
+<p align="center">🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈﹏🦈</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=babysharkhome&theme=radical" alt="Streak"/>
